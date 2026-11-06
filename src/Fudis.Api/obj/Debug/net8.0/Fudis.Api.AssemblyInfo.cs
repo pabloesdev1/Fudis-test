@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Fudis.Api")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+51857ec59cd267b0151e5d824a15ed2559219e67")]
 [assembly: System.Reflection.AssemblyProductAttribute("Fudis.Api")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Fudis.Api")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

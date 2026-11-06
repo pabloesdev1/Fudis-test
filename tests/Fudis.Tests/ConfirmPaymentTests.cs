@@ -15,7 +15,7 @@ namespace Fudis.Tests;
 public class ApiFactory : WebApplicationFactory<Program>, IAsyncLifetime
 {
     private const string TestDb =
-        "Server=localhost,1433;Database=Fudis_Tests;User Id=sa;Password=TuClaveFuerte123!;TrustServerCertificate=True";
+        "Server=localhost,1433;Database=Fudis_Tests;User Id=sa;Password=Changethistestpass0!;TrustServerCertificate=True";
 
     async Task IAsyncLifetime.InitializeAsync()
     {
